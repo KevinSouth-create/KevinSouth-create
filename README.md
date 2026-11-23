@@ -1,8 +1,8 @@
-# Hi, I'm Kevin! 👋
+# Hi, I'm Kevin! 
 
 I'm an IT Support Technician, U.S. Army veteran, and Computer Support student at Arapahoe Community College.
 
-## 🛠️ Technical Skills
+## Technical Skills
 - Windows and Linux troubleshooting
 - Computer hardware diagnostics and repair
 - Networking fundamentals
@@ -10,10 +10,10 @@ I'm an IT Support Technician, U.S. Army veteran, and Computer Support student at
 - Learning React and TypeScript
 - Virtualization with Proxmox
 
-## 🚀 Current Focus
+##  Current Focus
 - Improving my programming skills
 - Building practical IT troubleshooting tools
 - Learning software development and automation
 
-## 🎯 Career Goal
+##  Career Goal
 Continue growing in IT support while developing my programming and automation skills.
